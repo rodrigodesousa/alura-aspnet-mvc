@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CasaDoCodigo.Repositories
 {
-    interface ICadastroRepository
+    public interface ICadastroRepository
     {
 
     }
